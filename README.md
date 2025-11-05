@@ -148,7 +148,7 @@ Absolutely. Use the scheduler to run hourly/daily windows, or trigger on event i
 **What if Airbnb’s UI changes?**  
 Selectors are centralized in `android/uiautomator/selectors.json`. The system captures failure screenshots and falls back to visual/text anchors; hotfixes can be pushed without touching core logic.
 
-##Performance & Reliability Benchmarks
+## Performance & Reliability Benchmarks
 - **Execution Speed:** ~150–300 date updates per device-hour (calendar range + ladder application), depending on latency and UI changes.  
 - **Success Rate:** ~95% end-to-end push reliability under normal network/device conditions with retries and backoff.  
 - **Scalability:** Verified parallelization across 50–300 Android devices/emulators with queue-based rate limiting; architecture patterns extend to 1,000+ with additional runners.  
